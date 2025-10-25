@@ -33,22 +33,22 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/sohyuuun">
-        <img src="https://github.com/sohyuuun_2.png" width="100px;" alt=""/>
+      <a href="https://github.com/Sohyunnnn">
+        <img src="https://github.com/Sohyunnnn.png" width="100px;" alt=""/>
         <br />
         <sub><b>박소현</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/jeoungmini">
-        <img src="https://github.com/jeoungmini.png" width="100px;" alt=""/>
+      <a href="https://github.com/qowjdals23">
+        <img src="https://github.com/qowjdals23.png" width="100px;" alt=""/>
         <br />
         <sub><b>배정민</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/5-onie">
-        <img src="https://github.com/@5__0n1e.png" width="100px;" alt=""/>
+      <a href="https://github.com/sonnnnhe">
+        <img src="https://github.com/sonnnnhe.png" width="100px;" alt=""/>
         <br />
         <sub><b>손하은</b></sub>
       </a>
