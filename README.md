@@ -29,28 +29,28 @@
       <a href="https://github.com/jstar000">
         <img src="https://github.com/jstar000.png" width="100px;" alt=""/>
         <br />
-        <sub><b>jstar000</b></sub>
+        <sub><b>임지성</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/sohyuuun">
-        <img src="https://github.com/sohyuuun.png" width="100px;" alt=""/>
+        <img src="https://github.com/sohyuuun_2.png" width="100px;" alt=""/>
         <br />
-        <sub><b>sohyuuun</b></sub>
+        <sub><b>박소현</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/jeoungmini">
         <img src="https://github.com/jeoungmini.png" width="100px;" alt=""/>
         <br />
-        <sub><b>jeoungmini</b></sub>
+        <sub><b>배정민</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/5-onie">
-        <img src="https://github.com/5-onie.png" width="100px;" alt=""/>
+        <img src="https://github.com/@5__0n1e.png" width="100px;" alt=""/>
         <br />
-        <sub><b>5-onie</b></sub>
+        <sub><b>손하은</b></sub>
       </a>
     </td>
   </tr>
@@ -59,21 +59,21 @@
       <a href="https://github.com/nacintosh">
         <img src="https://github.com/nacintosh.png" width="100px;" alt=""/>
         <br />
-        <sub><b>nacintosh</b></sub>
+        <sub><b>임나은</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Tnalxmsk">
         <img src="https://github.com/Tnalxmsk.png" width="100px;" alt=""/>
         <br />
-        <sub><b>Tnalxmsk</b></sub>
+        <sub><b>장민수</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/mimizae">
         <img src="https://github.com/mimizae.png" width="100px;" alt=""/>
         <br />
-        <sub><b>mimizae</b></sub>
+        <sub><b>지민재</b></sub>
       </a>
     </td>
   </tr>
