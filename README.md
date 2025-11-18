@@ -86,7 +86,7 @@
 | 1주차 | 변수(4장), 함수(12장), 스코프(13장), 전역 변수의 문제점(14장), let,const 키워드와 블록 레벨 스코프(15장) |
 | 2주차 | 실행 컨텍스트(23장)                                                                                  |
 | 3주차 | this(22장) → 클로저(24장)                                                                            |
-| 4주차 | 브라우저의 렌더링 과정(38장)<br>DOM(39장)<br>- DOM 트리 구조 이해하기(DOM Interface, Node Interface)<br>- JS가 DOM을 조작할 수 있는 이유와 방법<br>- BOM, DOM, 브라우저, JavaScript의 관계 이해하기<br>- Virtual DOM, React 동작원리 |
+| 4주차 | 브라우저의 렌더링 과정(38장)<br>DOM(39장)<br>- DOM과 브라우저 <br>- 브라우저와 자바스크립트 <br>- DOM, 브라우저, JavaScript의 관계 이해하기<br>- Virtual DOM, React 동작원리 |
 | 5주차 | 이벤트(40장), 타이머(41장), 비동기 프로그래밍(42장)                                                  |
 | 6주차 | Promise(45장), Async/await(46장)                                                                     |
 | 7주차 | 프로토타입(19장)                                                                                     |
